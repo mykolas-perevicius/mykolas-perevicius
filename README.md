@@ -29,11 +29,10 @@ ask_me_about = ["Test-Driven Development", "GPU Optimization", "Production Djang
 
 ![GitHub Stats](github-stats-card)
 ![Top Languages](top-langs-card)
-```
 
-Let's build something that matters.
+#### Let's build something that matters.
 
-#### My Other More Worky Work 💼
+### My Other More Worky Work 💼
 - Shipped production code @ **Bessemer Trust** that cut reconciliation time by 60%
 - Taught 120+ students @ **The Coding Place** with 90% cert pass rate
 - Built event systems @ **Project Innovate** used by 9 programs daily
