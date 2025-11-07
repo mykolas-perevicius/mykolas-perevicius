@@ -1,38 +1,124 @@
 ### Hey, I'm Mykolas 👋
 
-I'm studying Computer Science @ NJIT 🎓 | Dean's List | 3.8 GPA
+Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shipping production code
 
-#### Currently Building 🚀
-- **UserAuthGuard** - Full-stack Django with 90% test coverage
-- **Koala's Forge** - The Ninite alternative that actually works
-
-#### Project Highlights 🛠️
-- 🐨 [Koala's Forge](link) - Cross-platform installer for 100+ apps
-- ⚡ [Distributed AlexNet](link) - 4.6× speedup with custom CUDA kernels
-- 🚀 [Ultimate System Setup](link) - From zero to dev environment in minutes
-- ♻️ [Smart Recycling](link) - 95% accuracy CNN-powered bin
-
-#### Tech Stack 🔧
-```python
-languages = ["Python", "C/C++", "Java", "TypeScript", "Go"]
-currently_learning = ["Rust", "WebGPU", "Distributed Systems"]
-ask_me_about = ["Test-Driven Development", "GPU Optimization", "Production Django"]
-```
-
-#### Let's Connect 🤝
-- 💼 [LinkedIn](https://linkedin.com/in/mykolasperevicius)
-- 🌐 [Portfolio](https://perevici.us)
-- 📧 [Email](mailto:Perevicius.Mykolas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mykolasperevicius)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://perevici.us)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Perevicius.Mykolas@gmail.com)
 
 ---
-*"I thrive at the intersection of backend rigor and frontend empathy"*
 
-![GitHub Stats](github-stats-card)
-![Top Languages](top-langs-card)
+### Currently Building 🚀
 
-### Let's build something that matters.
+- **UserAuthGuard** - Pushing Django to 90% test coverage, refactoring legacy code into maintainable systems
+- **Koala's Forge** - The free, powerful alternative to Ninite (because I lost 3 machines in one weekend)
+- **Distributed AlexNet** - Custom CUDA kernels achieving 4.6× speedup on DGX-1 clusters
 
-##### My Other More Worky Work 💼
-- Shipped production code @ **Bessemer Trust** that cut reconciliation time by 60%
-- Taught 120+ students @ **The Coding Place** with 90% cert pass rate
-- Built event systems @ **Project Innovate** used by 9 programs daily
+### My Impact 💼
+
+#### Software Engineer @ UserAuthGuard by Asan Digital
+*Oct 2025 - Present*
+- Full-stack Django REST development with 90%+ backend test coverage
+- Refactored 15 legacy "coverage hack" test files into proper behavioral test suites
+- Collaborate with cross-functional teams to deliver exceptional user experiences
+
+#### Software Developer Intern @ Bessemer Trust
+*Jun 2023 - Aug 2023*
+- Built securities platform reducing reconciliation time by **60% for 20+ analysts**
+- Optimized SQL Server indexes, cutting report latency by **45%**
+- Delivered AI Tech Talk to **500+ employees** (top 5% feedback score)
+
+#### Previous: The Coding Place, Project Innovate Newark, Bergen Community College
+
+### Project Highlights 🛠️
+
+#### Production Systems
+- 🐨 **[Koala's Forge](https://github.com/mykolas-perevicius/koalas-forge)** - Cross-platform installer for 100+ apps. Born from frustration, built with determination.
+- 🚀 **[Ultimate System Setup](https://github.com/mykolas-perevicius/ultimate-system-setup)** - AI Lab + Dev Environment. From zero to productive in minutes.
+- 🎓 **[Education Playground](https://github.com/mykolas-perevicius/Education_Playground)** - Interactive Python platform. 120+ students, 90% cert pass rate.
+
+#### Performance Engineering
+- ⚡ **[Distributed AlexNet](https://github.com/mykolas-perevicius/CUDA-MPI-GPU-Cluster-Programming)** - Custom CUDA/MPI implementation. 4.6× faster than PyTorch baseline.
+- 🏦 **LedgerLite** - Distributed ledger microservice. 120+ tests, 90% coverage, auto-scales on AWS ECS.
+- ♻️ **Smart Recycling Bin** - CNN-powered sorting with 95% accuracy. Real hardware, real impact.
+
+### Tech Stack 🔧
+
+```python
+class MykolasTech:
+    def __init__(self):
+        self.languages = ["Python", "C/C++", "Java", "C#", "TypeScript", "Go", "Rust"]
+        self.backend = ["Django", "Spring Boot", ".NET Core", "Node.js"]
+        self.frontend = ["React 18", "TypeScript", "Next.js"]
+        self.infrastructure = ["Docker", "K8s", "AWS", "GitHub Actions"]
+        self.databases = ["PostgreSQL", "Redis", "MongoDB"]
+        self.specialized = ["CUDA", "MPI", "PyTorch", "TensorFlow"]
+        
+    def currently_learning(self):
+        return ["WebGPU", "Distributed Systems at Scale", "Rust for Systems"]
+    
+    def ask_me_about(self):
+        return ["90% test coverage strategies", "GPU optimization", "Production Django"]
+```
+
+### By The Numbers 📊
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>60%</strong><br/>
+      Time Reduction<br/>
+      <sub>Production Systems</sub>
+    </td>
+    <td align="center">
+      <strong>90%+</strong><br/>
+      Test Coverage<br/>
+      <sub>Standard I Maintain</sub>
+    </td>
+    <td align="center">
+      <strong>4.6×</strong><br/>
+      GPU Speedup<br/>
+      <sub>Custom CUDA</sub>
+    </td>
+    <td align="center">
+      <strong>500+</strong><br/>
+      Engineers<br/>
+      <sub>Educated</sub>
+    </td>
+  </tr>
+</table>
+
+### Recent Activity 🔄
+
+<!--START_SECTION:activity-->
+🔨 Pushed to UserAuthGuard test suite refactor  
+⚡ Merged PR: Added CUDA kernels to AlexNet implementation  
+🐨 Released Koala's Forge v2.0 with cross-platform support  
+📚 Updated Education Playground with new DSA modules  
+<!--END_SECTION:activity-->
+
+### Let's Build Something That Matters 🤝
+
+I'm actively exploring opportunities with:
+- **YC Startups** building the future
+- **High-impact teams** shipping at scale  
+- **ML/Infrastructure roles** pushing boundaries
+
+📍 NYC Metro • Open to relocation for the right opportunity
+
+---
+
+<details>
+<summary>📈 GitHub Stats</summary>
+
+![Mykolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolas-perevicius&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolas-perevicius&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykolas-perevicius&theme=tokyonight)
+
+</details>
+
+---
+
+*"I thrive at the intersection of backend rigor and frontend empathy, shipping production code that helps everyday people get more done with less friction."*
