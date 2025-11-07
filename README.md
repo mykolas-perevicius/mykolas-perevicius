@@ -5,12 +5,6 @@ I'm studying Computer Science @ NJIT 🎓 | Dean's List | 3.8 GPA
 #### Currently Building 🚀
 - **UserAuthGuard** - Full-stack Django with 90% test coverage
 - **Koala's Forge** - The Ninite alternative that actually works
-- **GPU Experiments** - Making things go brrrr with CUDA
-
-#### My Work 💼
-- Shipped production code @ **Bessemer Trust** that cut reconciliation time by 60%
-- Taught 120+ students @ **The Coding Place** with 90% cert pass rate
-- Built event systems @ **Project Innovate** used by 9 programs daily
 
 #### Project Highlights 🛠️
 - 🐨 [Koala's Forge](link) - Cross-platform installer for 100+ apps
@@ -70,3 +64,8 @@ Previously @ Bessemer Trust, I built a securities platform that saved 20+ analys
 - 500+ engineers educated
 
 Let's build something that matters.
+
+#### My Other More Worky Work 💼
+- Shipped production code @ **Bessemer Trust** that cut reconciliation time by 60%
+- Taught 120+ students @ **The Coding Place** with 90% cert pass rate
+- Built event systems @ **Project Innovate** used by 9 programs daily
