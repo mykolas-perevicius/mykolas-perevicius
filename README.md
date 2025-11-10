@@ -18,8 +18,8 @@ Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shippin
 
 #### Software Engineer @ UserAuthGuard by Asan Digital
 *Oct 2025 - Present*
-- Full-stack Django REST development with 90%+ backend test coverage
-- Refactored 15 legacy "coverage hack" test files into proper behavioral test suites
+- Full-stack Django REST development with a goal of 90%+ backend test coverage
+- Refactored  test files into  behavioral test suites
 - Collaborate with cross-functional teams to deliver exceptional user experiences
 
 #### Software Developer Intern @ Bessemer Trust
