@@ -14,15 +14,22 @@ Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shippin
 - **Koala's Forge** - The free, powerful alternative to Ninite (because I lost 3 machines in one weekend)
 - **Distributed AlexNet** - Custom CUDA kernels achieving 4.6× speedup on DGX-1 clusters
 
+#### UserAuthGuard
+
+- **Scale:** Production Django serving 17,000+ students
+- **Quality:** 90% test coverage (from 51%) across 840+ Python files  
+- **Stack:** Django REST, PostgreSQL, Redis, Celery, Docker, K8s
+- **Integrations:** Stripe, Google Workspace, Dell APIs, WebSockets
+
 ### My Impact 💼
 
-#### Software Engineer @ UserAuthGuard by Asan Digital
+#### Software Engineer @ UserAuthGuard by Asan Digital | Django, PostgreSQL, Redis, Stripe, Google APIs |
 *Oct 2025 - Present*
 - Full-stack Django REST development with a goal of 90%+ backend test coverage
 - Refactored  test files into  behavioral test suites
 - Collaborate with cross-functional teams to deliver exceptional user experiences
 
-#### Software Developer Intern @ Bessemer Trust
+#### Software Developer Intern @ Bessemer Trust | C#/.NET, React, SQL Server |
 *Jun 2023 - Aug 2023*
 - Built securities platform reducing reconciliation time by **60% for 20+ analysts**
 - Optimized SQL Server indexes, cutting report latency by **45%**
@@ -30,7 +37,11 @@ Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shippin
 
 #### Previous: The Coding Place, Project Innovate Newark, Bergen Community College
 
-### Project Highlights 🛠️
+### 🏆 Technical Achievements 🛠️
+
+#### Graduate CS Projects
+- **[Rosetta Compiler](https://github.com/mykolas-perevicius/Building-A-Compiler)**: 10+ languages (C++, Rust, Python, Java, Kotlin, Haskell, OCaml, Assembly)
+- **[Distributed AlexNet](https://github.com/mykolas-perevicius/CUDA-MPI-GPU-Cluster-Programming)**: 4.6× speedup with custom CUDA/MPI
 
 #### Production Systems
 - 🐨 **[Koala's Forge](https://github.com/mykolas-perevicius/koalas-forge)** - Cross-platform installer for 100+ apps. Born from frustration, built with determination.
@@ -38,7 +49,6 @@ Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shippin
 - 🎓 **[Education Playground](https://github.com/mykolas-perevicius/Education_Playground)** - Interactive Python platform. 120+ students, 90% cert pass rate.
 
 #### Performance Engineering
-- ⚡ **[Distributed AlexNet](https://github.com/mykolas-perevicius/CUDA-MPI-GPU-Cluster-Programming)** - Custom CUDA/MPI implementation. 4.6× faster than PyTorch baseline.
 - 🏦 **LedgerLite** - Distributed ledger microservice. 120+ tests, 90% coverage, auto-scales on AWS ECS.
 - ♻️ **Smart Recycling Bin** - CNN-powered sorting with 95% accuracy. Real hardware, real impact.
 
