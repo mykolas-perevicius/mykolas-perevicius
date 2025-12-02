@@ -71,32 +71,6 @@ class MykolasTech:
         return ["90% test coverage strategies", "GPU optimization", "Production Django"]
 ```
 
-### By The Numbers 📊
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>60%</strong><br/>
-      Time Reduction<br/>
-      <sub>Production Systems</sub>
-    </td>
-    <td align="center">
-      <strong>90%+</strong><br/>
-      Test Coverage<br/>
-      <sub>Standard I Maintain</sub>
-    </td>
-    <td align="center">
-      <strong>4.6×</strong><br/>
-      GPU Speedup<br/>
-      <sub>Custom CUDA</sub>
-    </td>
-    <td align="center">
-      <strong>500+</strong><br/>
-      Engineers<br/>
-      <sub>Educated</sub>
-    </td>
-  </tr>
-</table>
 
 ### Recent Activity 🔄
 
