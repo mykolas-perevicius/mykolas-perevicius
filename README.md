@@ -102,7 +102,3 @@ I'm actively exploring opportunities with:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykolas-perevicius&theme=tokyonight)
 
 </details>
-
----
-
-*"I thrive at the intersection of backend rigor and frontend empathy, shipping production code that helps everyday people get more done with less friction."*
