@@ -14,10 +14,10 @@ Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shippin
 - **Koala's Forge** - The free, powerful alternative to Ninite (because I lost 3 machines in one weekend)
 - **Distributed AlexNet** - Custom CUDA kernels achieving 4.6× speedup on DGX-1 clusters
 
-#### UserAuthGuard
+#### UserAuthGuard (WIP - CURRENT ROLE)
 
 - **Scale:** Production Django serving 17,000+ students
-- **Quality:** 90% test coverage (from 51%) across 840+ Python files  
+- **Quality:** (GOAL) 90% test coverage (from 51%) across 840+ Python files  
 - **Stack:** Django REST, PostgreSQL, Redis, Celery, Docker, K8s
 - **Integrations:** Stripe, Google Workspace, Dell APIs, WebSockets
 
