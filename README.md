@@ -1,7 +1,5 @@
 ### Hey, I'm Mykolas 👋
 
-Senior @ NJIT | Software Engineer @ UserAuthGuard | Full-Stack Developer shipping production code
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mykolasperevicius)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://perevici.us)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Perevicius.Mykolas@gmail.com)
