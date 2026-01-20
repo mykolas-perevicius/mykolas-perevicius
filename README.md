@@ -38,7 +38,7 @@
 ### 🏆 Technical Achievements 🛠️
 
 #### Graduate CS Projects
-- **[Rosetta Compiler](https://github.com/mykolas-perevicius/Building-A-Compiler)**: 10+ languages (C++, Rust, Python, Java, Kotlin, Haskell, OCaml, Assembly)
+- ~~**[Rosetta Compiler](https://github.com/mykolas-perevicius/Building-A-Compiler)**: 10+ languages (C++, Rust, Python, Java, Kotlin, Haskell, OCaml, Assembly)~~
 - **[Distributed AlexNet](https://github.com/mykolas-perevicius/CUDA-MPI-GPU-Cluster-Programming)**: 4.6× speedup with custom CUDA/MPI
 
 #### Production Systems
