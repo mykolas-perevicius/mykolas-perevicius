@@ -6,26 +6,13 @@
 
 ---
 
-### Currently Building 🚀
-
-- **UserAuthGuard** - Pushing Django to 90% test coverage, refactoring legacy code into maintainable systems
-- **Koala's Forge** - The free, powerful alternative to Ninite (because I lost 3 machines in one weekend)
-- **Distributed AlexNet** - Custom CUDA kernels achieving 4.6× speedup on DGX-1 clusters
-
-#### UserAuthGuard (WIP - CURRENT ROLE)
-
-- **Scale:** Production Django serving 17,000+ students
-- **Quality:** (GOAL) 90% test coverage (from 51%) across 840+ Python files  
-- **Stack:** Django REST, PostgreSQL, Redis, Celery, Docker, K8s
-- **Integrations:** Stripe, Google Workspace, Dell APIs, WebSockets
-
 ### My Impact 💼
 
 #### Software Engineer @ UserAuthGuard by Asan Digital | Django, PostgreSQL, Redis, Stripe, Google APIs |
-*Oct 2025 - Present*
+*Oct 2025 - Feb 2026*
 - Full-stack Django REST development with a goal of 90%+ backend test coverage
-- Refactored  test files into  behavioral test suites
-- Collaborate with cross-functional teams to deliver exceptional user experiences
+- Refactored test files into behavioral test suites
+- Built E2E with Playwright walkthrough
 
 #### Software Developer Intern @ Bessemer Trust | C#/.NET, React, SQL Server |
 *Jun 2023 - Aug 2023*
