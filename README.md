@@ -8,82 +8,71 @@
 
 ### My Impact 💼
 
-#### Software Engineer @ UserAuthGuard by Asan Digital | Django, PostgreSQL, Redis, Stripe, Google APIs |
-*Oct 2025 - Feb 2026*
-- Full-stack Django REST development with a goal of 90%+ backend test coverage
-- Refactored test files into behavioral test suites
-- Built E2E with Playwright walkthrough
+#### Founding Engineer @ TapiaTax (Tapia Accountants and Associates LLC) | React, TypeScript, Supabase, Vercel
+*Dec 2025 – Present*
+- Founding software engineer for a local accounting firm focused on individual tax returns and small-business bookkeeping
+- Built and deployed the landing page and a lightweight client portal
+- Implemented secure client messaging and file-upload workflows to support communication, reduce spam, and provide a fallback from SaaS solutions
 
-#### Software Developer Intern @ Bessemer Trust | C#/.NET, React, SQL Server |
-*Jun 2023 - Aug 2023*
-- Built securities platform reducing reconciliation time by **60% for 20+ analysts**
-- Optimized SQL Server indexes, cutting report latency by **45%**
-- Delivered AI Tech Talk to **500+ employees** (top 5% feedback score)
+#### Software Engineer Contractor @ UserAuthGuard (Asan Digital LLC) | Django REST, pytest, Playwright, Docker
+*Oct 2025 – Feb 2026*
+- Improved testing for an internal portal managing groups, users, and school-issued devices for a SaaS platform serving **17,000+ students**
+- Increased backend coverage with **1,500+ pytest-django tests**, CI/CD checks, and automated validation
+- Built automated testing infrastructure (pytest, Playwright, Faker) including **BFS-based route discovery** that achieved **90%+ frontend coverage** with video-recorded test runs
+- Contributed Django REST framework backend work and service integrations (Google Workspace, Stripe)
+- Implemented CI/CD pipelines with GitHub Actions and Docker for automated test execution, coverage reporting, and deployment validation
 
-#### Previous: The Coding Place, Project Innovate Newark, Bergen Community College
+#### Software Engineer Intern @ Bessemer Trust | C#/.NET, React, TypeScript, SQL Server
+*Jun 2023 – Aug 2023*
+- Contributed full-stack features to an internal securities analysis platform used by wealth management analysts and client advisors
+- Presented an "AI Tech Talk" to **100+ employees** on LLM integrations for Bessemer's core business needs and daily operations
 
-### 🏆 Technical Achievements 🛠️
+#### Curriculum Developer & Instructor @ The Coding Place | Python, JavaScript, Jupyter
+*Dec 2022 – Jun 2023*
+- Private tutoring focused on supplementary coding education for kids and teens, as well as continuing education for adults
+- Designed and taught lessons in programming basics with Python, web development with JS, OOP + data structures, and personal project development
+- Created Jupyter notebook learning materials to support fundamentals instruction and preparation for PCEP and PCAP certifications, with a high student pass rate
 
-#### Graduate CS Projects
-- ~~**[Rosetta Compiler](https://github.com/mykolas-perevicius/Building-A-Compiler)**: 10+ languages (C++, Rust, Python, Java, Kotlin, Haskell, OCaml, Assembly)~~
-- **[Distributed AlexNet](https://github.com/mykolas-perevicius/CUDA-MPI-GPU-Cluster-Programming)**: 4.6× speedup with custom CUDA/MPI
+#### Research Intern @ Bergen Community College 3SP Research Program | Python, Arduino, TensorFlow
+*Sep 2021 – Sep 2022*
+- Participated in Bergen Community College's STEM Student Scholars research program under Dr. Joseph Sivo
+- Built early embedded systems and Python-based research prototypes as part of hands-on technical research experience
+- Contributed to computer vision experimentation with a CNN-based recycling-bin detection prototype built with TensorFlow
 
-#### Production Systems
-- 🐨 **[Koala's Forge](https://github.com/mykolas-perevicius/koalas-forge)** - Cross-platform installer for 100+ apps. Born from frustration, built with determination.
-- 🚀 **[Ultimate System Setup](https://github.com/mykolas-perevicius/ultimate-system-setup)** - AI Lab + Dev Environment. From zero to productive in minutes.
-- 🎓 **[Education Playground](https://github.com/mykolas-perevicius/Education_Playground)** - Interactive Python platform. 120+ students, 90% cert pass rate.
-
-#### Performance Engineering
-- 🏦 **LedgerLite** - Distributed ledger microservice. 120+ tests, 90% coverage, auto-scales on AWS ECS.
-- ♻️ **Smart Recycling Bin** - CNN-powered sorting with 95% accuracy. Real hardware, real impact.
-
-### Tech Stack 🔧
-
-```python
-class MykolasTech:
-    def __init__(self):
-        self.languages = ["Python", "C/C++", "Java", "C#", "TypeScript", "Go", "Rust"]
-        self.backend = ["Django", "Spring Boot", ".NET Core", "Node.js"]
-        self.frontend = ["React 18", "TypeScript", "Next.js"]
-        self.infrastructure = ["Docker", "K8s", "AWS", "GitHub Actions"]
-        self.databases = ["PostgreSQL", "Redis", "MongoDB"]
-        self.specialized = ["CUDA", "MPI", "PyTorch", "TensorFlow"]
-        
-    def currently_learning(self):
-        return ["WebGPU", "Distributed Systems at Scale", "Rust for Systems"]
-    
-    def ask_me_about(self):
-        return ["90% test coverage strategies", "GPU optimization", "Production Django"]
-```
-
-
-### Recent Activity 🔄
-
-<!--START_SECTION:activity-->
-🔨 Pushed to UserAuthGuard test suite refactor  
-⚡ Merged PR: Added CUDA kernels to AlexNet implementation  
-🐨 Released Koala's Forge v2.0 with cross-platform support  
-📚 Updated Education Playground with new DSA modules  
-<!--END_SECTION:activity-->
-
-### Let's Build Something That Matters 🤝
-
-I'm actively exploring opportunities with:
-- **YC Startups** building the future
-- **High-impact teams** shipping at scale  
-- **ML/Infrastructure roles** pushing boundaries
-
-📍 NYC Metro • Open to relocation for the right opportunity
+#### Curriculum Developer, Instructor & Software Engineer @ Project Innovate Newark | React, Node.js, PostgreSQL, Django, Docker
+*Dec 2019 – Oct 2021*
+- Contributed to a nonprofit focused on teaching high school students the fundamentals of programming and finance
+- Progressed from learning the stack, to teaching introductory Python classes and projects, to developing curriculum and coding instructional materials
+- Later worked on an internal scheduling portal using React, Node.js, PostgreSQL, Django, JWT authentication, and Docker
 
 ---
 
-<details>
-<summary>📈 GitHub Stats</summary>
+### 🎓 Education
 
-![Mykolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolas-perevicius&show_icons=true&theme=tokyonight)
+**B.S. Computer Science**, New Jersey Institute of Technology — *Sep 2021 – Dec 2025* · Dean's List
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolas-perevicius&layout=compact&theme=tokyonight)
+Coursework: Operating Systems · Database Systems · Advanced Data Structures & Algorithms · Linux Programming · Compiler Design · Machine Learning · GPU Cluster Programming
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykolas-perevicius&theme=tokyonight)
+---
 
-</details>
+### 🏆 Projects 🛠️
+
+- 🐨 **[Koala's Forge](https://github.com/mykolas-perevicius/koalas-forge)** — Cross-platform installer supporting 100+ apps with automated setup, dependency handling, and rollback-oriented workflows. Inspired by Ninite.
+- ⚡ **[Distributed AlexNet](https://github.com/mykolas-perevicius/CUDA-MPI-GPU-Cluster-Programming)** — Implemented AlexNet via CUDA kernels and MPI orchestration on a cluster to demonstrate scaling laws and techniques.
+- 🎬 **[RIFE Gameplay Interpolation](https://github.com/mykolas-perevicius/rife-gameplay-interpolation)** — GPU-accelerated video interpolation pipeline converting 30 FPS gameplay to 60+ FPS, focused on evaluation and benchmarking.
+- 🎹 **[Piano Keyboard Trainer](https://github.com/mykolas-perevicius/Piano-Keyboard-Trainer)** — Browser-based piano trainer that maps your QWERTY keyboard to a 30+ note chromatic instrument. Includes 8 scales, real-time piano visualization, and a scale-practice system with progress tracking. Built with React, TypeScript, Tailwind, and the Web Audio API.
+- 📈 **[Stock & Options Simulator](https://stocksandoptions.org)** — Interactive web app for modeling stock and options scenarios with real-time calculations and visualization.
+- 🎓 **[Education Playground](https://github.com/mykolas-perevicius/Education_Playground)** — Jupyter-notebook learning materials for Python fundamentals and PCEP/PCAP exam prep, built and used during private tutoring.
+- ♻️ **Smart Recycling Bin** — CNN-based recycling-bin detection prototype built with TensorFlow during the Bergen Community College 3SP research program.
+- 🔍 **Static C++ Code Analyzer** — Parser and static-analysis tool for a C++ subset. Identifies type errors and unused variables using AST generation and control-flow analysis.
+
+---
+
+### Let's Build Something That Matters 🤝
+
+I'm open to opportunities with:
+- **Startups** building real products
+- **Teams** shipping at scale
+- **ML / infrastructure roles** pushing boundaries
+
+📍 NYC Metro · Open to relocation for the right opportunity
